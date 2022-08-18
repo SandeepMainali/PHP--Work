@@ -10,5 +10,5 @@
                 eChO "Not Fired for now.";
             }
         }
-        evaluate("Kusal Karki", 35, 70, 2);
+        evaluate("Mainali", 35, 70, 2);
     ?>
